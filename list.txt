@@ -1,2 +1,3 @@
-C# 
-Java
+C# - ASP .Net
+Java - Spring MVC
+JavaScript - React
